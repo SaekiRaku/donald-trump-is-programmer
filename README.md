@@ -14,3 +14,7 @@ Checkout the `dist` directory.
 ![](./dist/tester-bug.png)
 ![](./dist/use-disinfectant-to-kill-the-user-so-that-we-can-fix-the-bugs.png)
 ![](./dist/you-are-talking-fake-demands.png)
+
+## License
+
+WTFPL
